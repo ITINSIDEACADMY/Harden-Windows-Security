@@ -1,4 +1,4 @@
-name: Virus Total
+name: Virus Total1
 on:
   push:
     paths:
